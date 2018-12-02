@@ -1,0 +1,3 @@
+Toyota,camry,SE,65101km,2010,Sedan,FWD,Manual,18131A,Used,5.5L/100km,{AC, Heated Seats, Heated Mirrors, Keyless Entry}
+Mercedec,CLK,LX, 1100km,2017,coupe,RWD,auto,18FO724A,Used,6L/100km,{AC, Heated Seats, Heated Mirrors, Keyless Entry, Power seats}
+Honda,CRV,LE,0km,2018,SUV,AWD,auto,19BF723A,new,8L/100km,{Heated Seats, Heated Mirrors, Keyless Entry}
